@@ -8,7 +8,7 @@
   <img src="https://img.shields.io/badge/Category-Image+Editor-E63946?style=for-the-badge&logo=appstore" />
 </p>
 
-**💻 LazPaint Free Installer** — LazPaint is a free, cross-platform image editor written in Free Pascal. Works without internet access, no account required. Full offline installation.
+**💻 LazPaint Free Installer** — LazPaint is a free, open-source image editor for Windows, macOS, and Linux written in Lazarus/Pascal. Works without internet access, no account required. Full offline installation.
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=windows" />
@@ -30,16 +30,16 @@
 
 ## 📖 About LazPaint
 
-LazPaint is a free, cross-platform image editor written in Free Pascal. It provides basic photo editing tools, layer support, smart zoom, and a scripting interface — offering a lightweight alternative to GIMP for simple image editing tasks.
+LazPaint is a free, open-source image editor for Windows, macOS, and Linux written in Lazarus/Pascal. Features include layers, selection tools, filters, drawing tools, and support for PNG, BMP, GIF, JPEG, and other formats. LazPaint is a lightweight alternative to GIMP for users who need basic image editing without the complexity of professional tools.
 
 ---
 
 ## ❌ Problem: LazPaint is hard to access
 
-- **Limited Feature Set** — Missing many advanced features of GIMP or Photoshop
-- **Small Community** — Limited tutorials and resources compared to major image editors
-- **Interface Style** — UI less polished than modern image editing software
-- **Plugin Ecosystem** — Very small extension library
+- **Feature Set** — Less comprehensive than GIMP or Photoshop for complex editing
+- **Community Size** — Small community with limited tutorials and resources
+- **Plugin Ecosystem** — Very limited extension system
+- **UI Design** — Dated visual design compared to modern image editors
 
 ---
 
@@ -121,7 +121,7 @@ LazPaint is a free, cross-platform image editor written in Free Pascal. It provi
 
 ---
 
-**LazPaint Free Installer** — LazPaint is a free, cross-platform image editor written in Free Pascal. Install without internet connection today!
+**LazPaint Free Installer** — LazPaint is a free, open-source image editor for Windows, macOS, and Linux written in Lazarus/Pascal. Install without internet connection today!
 
 <div align="center">
 
